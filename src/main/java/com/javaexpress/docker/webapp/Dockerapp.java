@@ -11,6 +11,6 @@ public class Dockerapp {
 	@GetMapping
 	public String getName() {
 		
-		return "Welcome to deployment in docker by Navreet Sidhu";
+		return "Welcome to deployment in docker by graceraji";
 	}
 }
